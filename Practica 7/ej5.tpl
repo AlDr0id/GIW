@@ -3,7 +3,7 @@
 ## Gestion de la Informacion en la Web
 ## Practica Consultas MongoDB
 ## Grupo 04
-## Sergio Juan Higuera Velasco, Pablo Gomez Calvo, Marcos Robles Palencia y Alvaro de la Cruz Casado
+## Marcos Robles Palencia y Alvaro de la Cruz Casado
 ## declaramos que esta solucion
 ## es fruto exclusivamente de nuestro trabajo personal. No hemos sido
 ## ayudados por ninguna otra persona ni hemos obtenido la solucion de
